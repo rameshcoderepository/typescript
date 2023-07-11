@@ -1,0 +1,25 @@
+
+
+TypeScript 
+
+typescript playground - online IDE 
+--------------------------------------------
+
+Installation Guide: 
+
+node package manager - npm install in browser and install
+
+node -v 
+
+npm -v 
+--------------------------------------
+typescript install - npm install -g typescript
+
+tsc -v 
+
+--------------------------------------
+
+Visual Studio code - install IDE
+
+----------------------------------------
+
